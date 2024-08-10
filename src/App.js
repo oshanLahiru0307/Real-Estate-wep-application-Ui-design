@@ -7,12 +7,13 @@ import Footer from './components/Footer'
 
 function App() {
   return (
-    <div className='App w-11/12 md:4/5 m-auto'>
-      
+    <div className='App'>
+      <div className='w-11/12 md:4/5 m-auto'>
       <Hero/>
       <NewestDeals/>
       <AboutUs/>
       <BestDeals/>
+      </div>
       <Footer/>
     </div>
   );
