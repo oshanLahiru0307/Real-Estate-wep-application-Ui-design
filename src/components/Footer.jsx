@@ -6,8 +6,8 @@ import {AiOutlineInstagram,AiOutlineYoutube,AiOutlineGithub} from 'react-icons/a
 
 const Footer = () => {
   return (
-    <div className='mt-20'>
-      <div className='w-full py-16'>
+    <div className='mt-5'>
+      <div className='w-full py-7'>
         <div className='flex flex-col justify-center items-center space-y-5'>
           <h1 className='text-xl md:text-3xl font-bold'>Download The Real Estate app</h1>
           <div className='flex space-x-5'>
@@ -31,8 +31,8 @@ const Footer = () => {
         </div>
       </div>
 
-      <footer className='w-full py-10 bg-neutral-800 text-white'>
-        <div className='w-11/12 md:1/3 m-auto flex flex-col items-center text-center space-y-5'>
+      <footer className='w-full py-3 bg-neutral-800 text-white'>
+        <div className='w-11/12 md:1/3 m-auto flex flex-col items-center text-center space-y-3'>
           <h1>RealEstate</h1>
         <ul className='flex items-center space-x-5 text-sm'>
           <li>Features</li>
@@ -46,7 +46,7 @@ const Footer = () => {
           <FiFacebook size={'2rem'}/>
           <AiOutlineGithub size={'1.5rem'}/>
         </div>
-        <p className='p-5 text-sm text-gray-400'>Lorem ipsum, placeholder or dummy text used in typesetting and graphic</p>
+        <p className='p-3 text-sm text-gray-400'>Lorem ipsum, placeholder or dummy text used in typesetting and graphic</p>
         </div>
       </footer>
     </div>

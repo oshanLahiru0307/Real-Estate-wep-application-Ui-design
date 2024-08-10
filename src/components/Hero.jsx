@@ -6,12 +6,12 @@ const Hero = () => {
     <div>
       <nav className='flex justify-between items-center py-5'>
         <h1 className='text-xl md:text-2xl font-bold'>Real Estate</h1>
-        <ul className='flex items-center space-x-5 text-xs md:text-base'>
+        <ul className='flex items-center space-x-5 text-xs md:text-base uppercase font-bold'>
             <li>Features</li>
             <li>Trending</li>
             <li>About</li>
         </ul>
-        <button className='bg-yellow-400 px-5 py-2 rounded-xl text-xs md:text-base'>Contact</button>
+        <button className='bg-yellow-400 px-5 py-2 rounded-xl text-xs md:text-base drop-shadow-lg'>Contact</button>
       </nav>
       
       <div className='h-[500px] relative'>
@@ -32,7 +32,7 @@ const Hero = () => {
                     <input type='text' placeholder='$100,000' className='outline-0 text-xs' />
                 </div>
                 <div>
-                    <button className='bg-yellow-400 px-5 py-2 mt-5 md:mt-0 md:rounded-full'>Search</button>
+                    <button className='bg-yellow-400 px-5 py-2 mt-5 md:mt-0 md:rounded-full drop-shadow-lg'>Search</button>
                 </div>
             </div>
         </div>

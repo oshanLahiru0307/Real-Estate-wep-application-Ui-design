@@ -77,7 +77,7 @@ const NewestDeals = () => {
 
             <div  className='flex items-center space-x-1'>
               <GiBathtub/>
-              <p className='text-sm text-gray-400'>3 bat</p>
+              <p className='text-sm text-gray-400'>4 bat</p>
             </div>
 
             <div className='flex items-center space-x-1'>
@@ -85,7 +85,7 @@ const NewestDeals = () => {
               <p className='text-sm text-gray-400'>1 gar</p>
             </div>
             </div>
-            <h1 className='text-2xl font-semibold'>$110,000</h1>
+            <h1 className='text-2xl font-semibold'>$150,000</h1>
 
             <div className='flex items-center space-x-2'>
               <IoLocateOutline/>
@@ -142,12 +142,12 @@ const NewestDeals = () => {
 
             <div className='flex items-center space-x-1'>
               <IoBedOutline/>
-              <p className='text-sm text-gray-400'>5 bed</p>
+              <p className='text-sm text-gray-400'>3 bed</p>
             </div>
 
             <div  className='flex items-center space-x-1'>
               <GiBathtub/>
-              <p className='text-sm text-gray-400'>3 bat</p>
+              <p className='text-sm text-gray-400'>2 bat</p>
             </div>
 
             <div className='flex items-center space-x-1'>
@@ -155,7 +155,7 @@ const NewestDeals = () => {
               <p className='text-sm text-gray-400'>1 gar</p>
             </div>
             </div>
-            <h1 className='text-2xl font-semibold'>$110,000</h1>
+            <h1 className='text-2xl font-semibold'>$90,000</h1>
 
             <div className='flex items-center space-x-2'>
               <IoLocateOutline/>
@@ -212,12 +212,12 @@ const NewestDeals = () => {
 
             <div className='flex items-center space-x-1'>
               <IoBedOutline/>
-              <p className='text-sm text-gray-400'>5 bed</p>
+              <p className='text-sm text-gray-400'>4 bed</p>
             </div>
 
             <div  className='flex items-center space-x-1'>
               <GiBathtub/>
-              <p className='text-sm text-gray-400'>3 bat</p>
+              <p className='text-sm text-gray-400'>2 bat</p>
             </div>
 
             <div className='flex items-center space-x-1'>
@@ -225,7 +225,7 @@ const NewestDeals = () => {
               <p className='text-sm text-gray-400'>1 gar</p>
             </div>
             </div>
-            <h1 className='text-2xl font-semibold'>$110,000</h1>
+            <h1 className='text-2xl font-semibold'>$70,000</h1>
 
             <div className='flex items-center space-x-2'>
               <IoLocateOutline/>
@@ -247,7 +247,7 @@ const NewestDeals = () => {
 
             <div className='flex items-center space-x-1'>
               <IoBedOutline/>
-              <p className='text-sm text-gray-400'>5 bed</p>
+              <p className='text-sm text-gray-400'>4 bed</p>
             </div>
 
             <div  className='flex items-center space-x-1'>
@@ -260,7 +260,7 @@ const NewestDeals = () => {
               <p className='text-sm text-gray-400'>1 gar</p>
             </div>
             </div>
-            <h1 className='text-2xl font-semibold'>$110,000</h1>
+            <h1 className='text-2xl font-semibold'>$90,000</h1>
 
             <div className='flex items-center space-x-2'>
               <IoLocateOutline/>
@@ -295,7 +295,7 @@ const NewestDeals = () => {
               <p className='text-sm text-gray-400'>1 gar</p>
             </div>
             </div>
-            <h1 className='text-2xl font-semibold'>$110,000</h1>
+            <h1 className='text-2xl font-semibold'>$120,000</h1>
 
             <div className='flex items-center space-x-2'>
               <IoLocateOutline/>
@@ -317,12 +317,12 @@ const NewestDeals = () => {
 
             <div className='flex items-center space-x-1'>
               <IoBedOutline/>
-              <p className='text-sm text-gray-400'>5 bed</p>
+              <p className='text-sm text-gray-400'>3 bed</p>
             </div>
 
             <div  className='flex items-center space-x-1'>
               <GiBathtub/>
-              <p className='text-sm text-gray-400'>3 bat</p>
+              <p className='text-sm text-gray-400'>2 bat</p>
             </div>
 
             <div className='flex items-center space-x-1'>
@@ -330,7 +330,7 @@ const NewestDeals = () => {
               <p className='text-sm text-gray-400'>1 gar</p>
             </div>
             </div>
-            <h1 className='text-2xl font-semibold'>$110,000</h1>
+            <h1 className='text-2xl font-semibold'>$70,000</h1>
 
             <div className='flex items-center space-x-2'>
               <IoLocateOutline/>
@@ -365,7 +365,7 @@ const NewestDeals = () => {
               <p className='text-sm text-gray-400'>1 gar</p>
             </div>
             </div>
-            <h1 className='text-2xl font-semibold'>$110,000</h1>
+            <h1 className='text-2xl font-semibold'>$80,000</h1>
 
             <div className='flex items-center space-x-2'>
               <IoLocateOutline/>
